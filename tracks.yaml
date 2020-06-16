@@ -214,5 +214,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/lgsvl/lgsvl_msgs.git
-    version: 0.0.3
-    version_saved: :{auto}
+    version: :{auto}
